@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+confluent-kafka
+pyxi_process_manager
+requests
+environs
